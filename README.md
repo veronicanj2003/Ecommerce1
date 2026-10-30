@@ -1,20 +1,25 @@
-# Online Book Store (Ecommerce1)
+# Library: Online Book Store (Ecommerce1)
 
 A front-end ecommerce website for selling books, built with HTML and CSS.
+The site content is sample content for practice.
+
+**Live site:** https://veronicanj2003.github.io/Ecommerce1/
 
 ## What it includes
-- [List the pages you've built, such as a home page, a book catalog, or a cart page]
-- [Add any features, such as a product layout, a navigation menu, or a footer]
+- Navigation bar with Home, Books, and Contact links
+- Hero section with a headline, call-to-action button, and illustration
+- "Why Choose Library?" section highlighting three benefits: instant
+  access, a large selection, and affordable prices
+- Featured Books section for showcasing book listings
 
 ## Built with
 - HTML
 - CSS
 
-## Live site
-[Add your link if it's published, or delete this section]
-
 ## Status
-In progress. I'm still adding pages and features.
+In progress. I'm still building out the pages and features.
 
 ## Planned next steps
-- [List 1-2 things you want to add, such as a shopping cart or checkout page]
+- Finish the Featured Books section with real book listings
+- Build out the Books and Contact pages
+- Add a shopping cart
